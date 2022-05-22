@@ -23,6 +23,6 @@ while True:
         print("Total amount:", Total)
     if grass_cut == answer["No"]:
         print("Total amount:", Total)
-
+    break
 
 
