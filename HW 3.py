@@ -3,6 +3,7 @@ answer = {"Yes": "Yes", "No": "No"}
 usluga_1 = None
 usluga_2 = None
 usluga_3 = None
+usluga_4 = None
 
 while True:
     usluga_1 = input("Have u a grass to cut? ")
